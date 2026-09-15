@@ -1,5 +1,4 @@
 Olá, eu sou Lucas Ramos
-─────────────────────────
 
 🎓 Engenheiro de Software
 💻 Desenvolvedor em formação
