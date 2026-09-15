@@ -8,7 +8,7 @@ Olá, eu sou Lucas Ramos
 
 🚀 Projetos em destaque
 
-[ NutriScan ]
+[incluir+] [ NutriScan ]
 [ Gwent-Codex ] [ Pokedex ]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
