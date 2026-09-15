@@ -1,16 +1,28 @@
-## Hi there 👋
+Olá, eu sou Lucas Ramos
+─────────────────────────
 
-<!--
-**LucasRS205/LucasRS205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engenheiro de Software
+💻 Desenvolvedor em formação
+🚀 Backend • Web • Mobile
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projetos em destaque
+
+[ Incluir+ ] [ NutriScan ]
+[ Gwent-Codex ] [ Pokedex ]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Tecnologias
+
+Java • Python • JavaScript
+React • Node.js • Flutter
+PostgreSQL • MongoDB • Docker
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📫 Contato
+https://www.linkedin.com/in/lucas-ramos-811708303/
+
+https://www.instagram.com/lucasra.silva/
